@@ -1,0 +1,97 @@
+{
+    "app=chat&module=chat&controller=logs": {
+        "lang_key": "menu__chat_chat_logs",
+        "restriction": "logs_manage",
+        "keywords": [
+            "chat logs"
+        ]
+    },
+    "app=chat&module=chat&controller=settings": {
+        "lang_key": "menu__chat_chat_settings",
+        "restriction": "settings_manage",
+        "keywords": [
+            "Chat",
+            "Chat Settings",
+            "Chatroom"
+        ]
+    },
+    "app=chat&module=chat&controller=settings&searchResult=form_ipchat_24hour": {
+        "lang_key": "ipchat_24hour",
+        "restriction": "settings_manage",
+        "keywords": [
+            "Time Format"
+        ]
+    },
+    "app=chat&module=chat&controller=settings&searchResult=form_ipchat_hide_usermessage": {
+        "lang_key": "ipchat_hide_usermessage",
+        "restriction": "settings_manage",
+        "keywords": [
+            "chat messages",
+            "Show room join messages"
+        ]
+    },
+    "app=chat&module=chat&controller=settings&searchResult=form_ipchat_inactive_minutes": {
+        "lang_key": "ipchat_inactive_minutes",
+        "restriction": "settings_manage",
+        "keywords": [
+            "inactivity",
+            "inactivity period"
+        ]
+    },
+    "app=chat&module=chat&controller=settings&searchResult=form_ipchat_new_window": {
+        "lang_key": "ipchat_new_window",
+        "restriction": "settings_manage",
+        "keywords": [
+            "chat new window",
+            "Open in a new window"
+        ]
+    },
+    "app=chat&module=chat&controller=settings&searchResult=form_ipchat_no_buffer": {
+        "lang_key": "ipchat_no_buffer",
+        "restriction": "settings_manage",
+        "keywords": [
+            "chat history"
+        ]
+    },
+    "app=chat&module=chat&controller=settings&searchResult=form_ipschat_enable_rules": {
+        "lang_key": "ipschat_enable_rules",
+        "restriction": "settings_manage",
+        "keywords": [
+            "chat rules"
+        ]
+    },
+    "app=chat&module=chat&controller=settings&searchResult=ipschat_online": {
+        "lang_key": "ipschat_online",
+        "restriction": "settings_manage",
+        "keywords": [
+            "chat online",
+            "online times"
+        ]
+    },
+    "app=core&module=members&controller=groups&searchResult=4_chat_access": {
+        "lang_key": "chat_access",
+        "restriction": "groups_manage",
+        "keywords": [
+            "access chat",
+            "chat"
+        ]
+    },
+    "app=core&module=members&controller=groups&searchResult=4_chat_moderate": {
+        "lang_key": "chat_moderate",
+        "restriction": "groups_manage",
+        "keywords": [
+            "chat",
+            "chat moderation",
+            "moderate",
+            "moderate chat"
+        ]
+    },
+    "app=core&module=members&controller=members&searchResult=form_chat_banned": {
+        "lang_key": "chat_banned",
+        "restriction": null,
+        "keywords": [
+            "Access",
+            "Chat"
+        ]
+    }
+}

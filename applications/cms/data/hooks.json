@@ -1,0 +1,42 @@
+{
+    "Database": {
+        "type": "C",
+        "class": "\\IPS\\Data\\Store\\Database"
+    },
+    "Topic": {
+        "type": "C",
+        "class": "\\IPS\\forums\\Topic"
+    },
+    "Widget": {
+        "type": "C",
+        "class": "\\IPS\\Widget"
+    },
+    "Post": {
+        "type": "C",
+        "class": "\\IPS\\forums\\Topic\\Post"
+    },
+    "Url": {
+        "type": "C",
+        "class": "\\IPS\\Http\\Url"
+    },
+    "InternalUrl": {
+        "type": "C",
+        "class": "\\IPS\\Http\\Url\\Internal"
+    },
+    "FriendlyUrl": {
+        "type": "C",
+        "class": "\\IPS\\Http\\Url\\Friendly"
+    },
+    "Lang": {
+        "type": "C",
+        "class": "\\IPS\\Lang"
+    },
+    "websiteUrl": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_core_front_global"
+    },
+    "Output": {
+        "type": "C",
+        "class": "\\IPS\\Output"
+    }
+}
